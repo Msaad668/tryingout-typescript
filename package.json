@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Msaad668/tryingout-typescript/issues"
   },
-  "homepage": "https://github.com/Msaad668/tryingout-typescript#readme"
+  "homepage": "https://github.com/Msaad668/tryingout-typescript#readme",
+  "dependencies": {
+    "@types/express": "^4.17.7",
+    "@types/node": "^14.0.24",
+    "express": "^4.17.1"
+  }
 }
